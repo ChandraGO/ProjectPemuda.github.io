@@ -9,7 +9,7 @@
 	<a href="https://www.instagram.com/chandrahafi_"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://youtube.com/CHANDRACHANNEL"><img alt="Youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 </p>
- <p><img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true"></p>
+ <p><img width="250" align='left' src="https://images.genpi.co/resize/1080x720-100/uploads/arsip/normal/2021/07/21/valak-ilustrasi-foto-puzzlefactory-ssjb.webp?raw=true"></p>
 
 ## Kalau mau Template, ini udah aku kasih, Tapi jangan Clone Webku, Please...
 
