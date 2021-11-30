@@ -9,14 +9,13 @@
 	<a href="https://www.instagram.com/chandrahafi_"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://youtube.com/CHANDRACHANNEL"><img alt="Youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 </p>
-<br>
-<br>
+
 ## Kalau mau Template, ini udah aku kasih, Tapi jangan Clone Webku, Please...
 
 ```bash
 > git clone https://testiii
 ```
-<br>
+
 ### Follow Btw :v
 * [`Instagram`](https://instagram.com/chandrahafi_)
 
